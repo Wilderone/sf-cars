@@ -6,9 +6,6 @@ django-crispy-forms==1.9.2
 django-debug-toolbar==2.2
 django-filter==2.3.0
 djangorestframework==3.11.0
-ipython==7.17.0
-ipython-genutils==0.2.0
-jedi==0.17.2
 parso==0.7.1
 pexpect==4.8.0
 pickleshare==0.7.5
